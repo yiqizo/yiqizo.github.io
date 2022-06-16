@@ -1,5 +1,24 @@
 
-   
-# Words
-content word & function word
+# 学习方法
+### 做了太多无用功，不了解高考的四九法则：即考点里的40%常考题型，分数占了高考卷的90%。
+### 259个核心考点，120个常考题型，每个题型2-3个变式，共443道题目，却占高考卷140分左右的分值。
 
+# 刷题库
+提供超过几万题，涵盖初中和高中数学知识点 
+
+**文本加粗**   
+\*\* 正常显示星号 \*\*  
+
+```tex
+        E=mc^2
+```
+
+$x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
+
+使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
+
+```javascript
+$(document).ready(function () {
+    alert('yiqizo');
+});
+```

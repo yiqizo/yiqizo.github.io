@@ -8,9 +8,7 @@
 
 - 启发学习兴趣
 - 思辨逻辑
-- 提分快
+- 快速提分
 
-[作文](/docs_01/)
-[英语](/docs_02/)
-[数学](/docs_03/)
-[Power by Yiqizo](http://yiqizo.com)
+[技术支持](http://yiqizo.com)
+[起步！](/docs_01/)
