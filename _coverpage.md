@@ -1,14 +1,13 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](./icon.svg)
 
-# 光线培训 <small>3.5</small>
+# 光线软件 <small>3.0</small>
 
-> 一个神奇的应试教育杀手
+> 中小企业管理数字化
 
-- 启发学习兴趣
-- 思辨逻辑
-- 快速提分
+- 为客户灵活定制
+- 互联网部署，省时省力
+- 售后服务响应快
 
-[技术支持](http://yiqizo.com)
-[起步！](/docs_01/)
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=29999529&auto=1&height=66"></iframe>
