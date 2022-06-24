@@ -12,8 +12,8 @@
 - 快速提分
 
 
-[技术支持](http://www.yiqizo.com)
-[起步！](/docs_01/)
+[技术支持](https://youngshine.github.io)
+[开始！](/docs_01/)
 
 
 
