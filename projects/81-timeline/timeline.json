@@ -2,28 +2,26 @@
   "year": "2022",
   "thumbs": [
     {"src":"./img/thumb/20220926.jpg","title":"长明到仙游 22-9-26"}, 
-    {"src":"./img/thumb/20220702.jpg","title":"教授和阿万 22-7-2"},
+    {"src":"./img/thumb/20220702.jpg","title":"长明和阿万 22-7-2"},
     {"src":"./img/thumb/20220806.jpg","title":"阿兰到厦门 22-8-6"},
-    {"src":"./img/thumb/20220609.jpg","title":"肖书记和建军 22-6-9"},
-    
-    {"src":"./img/thumb/20220301.jpg","title":"三厅会武夷 22-3-1"},
-    
-    {"src":"./img/thumb/20220724.jpg","title":"福州南平同学 22-7-24"},
+    {"src":"./img/thumb/20220609.jpg","title":"肖书记和建军 22-6-9"},  
+    {"src":"./img/thumb/20220301.jpg","title":"三厅会武夷 22-3-1"},  
+    {"src":"./img/thumb/20220724.jpg","title":"同学慰问建平 22-7-24"},
     {"src":"./img/thumb/20220204.jpg","title":"农场踏青 22-2-4"}, 
-    {"src":"./img/thumb/20220113.jpg","title":"建坤和肖诤 22-1-13"}   
+    {"src":"./img/thumb/20220113.jpg","title":"建坤和肖铮 22-1-13"}   
   ]
 },{   
   "year": "2021",
   "thumbs": [
     {"src":"./img/thumb/20211214.jpg","title":"国隆建军在省局 21-12-14"},    
-    {"src":"./img/thumb/20210823.jpg","title":"肖书记到光泽 21-8-23"},
+    {"src":"./img/thumb/20210823.jpg","title":"肖铮到光泽 21-8-23"},
     {"src":"./img/thumb/20210515.jpg","title":"沙县北站 21-5-15"},
     {"src":"./img/thumb/20211204.jpg","title":"建坤农场书法 21-12-4"},
     {"src":"./img/thumb/20210709.jpg","title":"国隆到仙游 21-7-9"},
     {"src":"./img/thumb/20210523.jpg","title":"武夷山水城 21-5-23"},
-    {"src":"./img/thumb/20210322.jpg","title":"教授到上杭 21-3-22"},
-    {"src":"./img/thumb/20211016.jpg","title":"肖铮再到光泽 21-10-16"},
-    {"src":"./img/thumb/20210708.jpg","title":"教授到光泽 21-7-8"},
+    {"src":"./img/thumb/20210322.jpg","title":"长明到上杭 21-3-22"},
+    {"src":"./img/thumb/20211016.jpg","title":"肖铮考察光泽 21-10-16"},
+    {"src":"./img/thumb/20210708.jpg","title":"长明到光泽 21-7-8"},
     {"src":"./img/thumb/20210315.jpg","title":"国隆到光泽 21-3-15"},
     {"src":"./img/thumb/20210310.jpg","title":"相聚平潭岛 21-3-10"}
   ]
@@ -33,19 +31,19 @@
     {"src":"./img/thumb/20201225.jpg","title":"肖铮、建军 20-12-25"},
     {"src":"./img/thumb/20200917.jpg","title":"相聚上杭 20-9-17"},
     {"src":"./img/thumb/20200708.jpg","title":"与汤老师合影 20-7-8"},
-    {"src":"./img/thumb/20201221.jpg","title":"教授到长汀 20-12-21"},
+    {"src":"./img/thumb/20201221.jpg","title":"长明到长汀 20-12-21"},
     {"src":"./img/thumb/20200826.jpg","title":"永春牛姆林 20-8-26"},
     {"src":"./img/thumb/20200630.jpg","title":"家盛到南平 20-6-30"},
     {"src":"./img/thumb/20201028.jpg","title":"与蔡老师合影 20-10-28"},
     {"src":"./img/thumb/20200808.jpg","title":"相聚霞浦 20-8-8"},
-    {"src":"./img/thumb/20200524.jpg","title":"宁德上汽参观 20-5-24"},   
-    {"src":"./img/thumb/20200423.jpg","title":"植保在光泽 20-4-23"}
+    {"src":"./img/thumb/20200524.jpg","title":"参观宁德上汽 20-5-24"},   
+    {"src":"./img/thumb/20200423.jpg","title":"省市植保在光泽 20-4-23"}
   ]
 },{ 
   "year": "2019",
   "thumbs": [
     {"src":"./img/thumb/20191120.jpg","title":"世河回母校 19-11-20"},
-    {"src":"./img/thumb/20190612.jpg","title":"宁德时代参观 19-6-12"},  
+    {"src":"./img/thumb/20190612.jpg","title":"参观宁德时代 19-6-12"},  
     {"src":"./img/thumb/20191015.jpg","title":"家盛到泉州 19-10-15"},   
     {"src":"./img/thumb/20190504.jpg","title":"王琳到南平 19-5-4"},
     {"src":"./img/thumb/20190802.jpg","title":"院士到沙县 19-8-2"},
@@ -54,9 +52,9 @@
 },{ 
   "year": "2018",
   "thumbs": [
-    {"src":"./img/thumb/20180918.jpg","title":"教授到南平 18-9-18"},
+    {"src":"./img/thumb/20180918.jpg","title":"长明到南平 18-9-18"},
     {"src":"./img/thumb/20180307.jpg","title":"建锵到南平 18-3-7"},
-    {"src":"./img/thumb/20180507.jpg","title":"教授到福清 18-5-7"},
+    {"src":"./img/thumb/20180507.jpg","title":"长明到福清 18-5-7"},
     {"src":"./img/thumb/20180321.jpg","title":"武夷山茶馆 18-3-21"}
   ]
 },{ 
@@ -64,8 +62,8 @@
   "thumbs": [
     {"src":"./img/thumb/20171215.jpg","title":"金耀到长汀 17-12-15"}, 
     {"src":"./img/thumb/20171011.jpg","title":"相聚福州茶馆 17-10-11"},
-    {"src":"./img/thumb/20170929.jpg","title":"石狮永宁卫 17-9-29"},
-    {"src":"./img/thumb/20171118.jpg","title":"教授到上海 17-11-18"},   
+    {"src":"./img/thumb/20170929.jpg","title":"相聚石狮永宁卫 17-9-29"},
+    {"src":"./img/thumb/20171118.jpg","title":"长明到上海 17-11-18"},   
     {"src":"./img/thumb/20170215.jpg","title":"兰芳到仙游 17-2-15"}, 
     {"src":"./img/thumb/20170523.jpg","title":"王琳、建军 17-5-23"},
     {"src":"./img/thumb/20170213.jpg","title":"书记和主席 17-2-13"} 
@@ -81,7 +79,7 @@
     {"src":"./img/thumb/20161022.jpg","title":"母校校庆 16-10-22"}, 
     {"src":"./img/thumb/20160803.jpg","title":"建坤到长汀 16-8-3"},
     {"src":"./img/thumb/20160518.jpg","title":"福州同学聚会 16-5-18"},
-    {"src":"./img/thumb/20160323.jpg","title":"武夷学院聚会 16-3-23"},
+    {"src":"./img/thumb/20160323.jpg","title":"相聚武夷学院 16-3-23"},
     {"src":"./img/thumb/20161011.jpg","title":"南平党代会 16-10-11"},
     {"src":"./img/thumb/20160716.jpg","title":"阿兰到加拿大 16-7-16"},
     {"src":"./img/thumb/20160615.jpg","title":"相聚光泽 16-6-15"},
@@ -94,11 +92,11 @@
     {"src":"./img/thumb/20150927.jpg","title":"俊华到福州 15-9-27"},
     {"src":"./img/thumb/20150726.jpg","title":"南平同学合影 15-7-26"},
     {"src":"./img/thumb/20150525.jpg","title":"王琳到美国 15-5-25"},
-    {"src":"./img/thumb/20150223.jpg","title":"教授回三明 15-2-23"},
+    {"src":"./img/thumb/20150223.jpg","title":"长明回三明 15-2-23"},
     {"src":"./img/thumb/20151104.jpg","title":"省政协会议 15-11-4"},
     {"src":"./img/thumb/20150919.jpg","title":"相聚三明 15-9-19"},
     {"src":"./img/thumb/20150725.jpg","title":"家盛到平潭 15-7-25"},
-    {"src":"./img/thumb/20150422.jpg","title":"教授到长汀 15-4-22"},
+    {"src":"./img/thumb/20150422.jpg","title":"长明到长汀 15-4-22"},
     {"src":"./img/thumb/20150206.jpg","title":"阿万到泉州 15-2-6"}, 
     {"src":"./img/thumb/20150928.jpg","title":"王琳到上海 15-9-28"},
     {"src":"./img/thumb/20150817.jpg","title":"邓平回沙县 15-8-17"},
@@ -109,11 +107,11 @@
   "year": "2014",
   "thumbs": [
     {"src":"./img/thumb/20141231.jpg","title":"福州迎新年 14-12-31"},
-    {"src":"./img/thumb/20141122.jpg","title":"教授到厦门 14-11-22"},
+    {"src":"./img/thumb/20141122.jpg","title":"长明到厦门 14-11-22"},
     {"src":"./img/thumb/20140830.jpg","title":"专家到南平 14-8-30"},
     {"src":"./img/thumb/20141102.jpg","title":"院士到建瓯 14-11-2"},
     {"src":"./img/thumb/20141007.jpg","title":"阿万到光泽 14-10-7"},
-    {"src":"./img/thumb/20140924.jpg","title":"同学西部游 14-9-24"}
+    {"src":"./img/thumb/20140924.jpg","title":"俊华恩霖在西部 14-9-24"}
   ]
 },{ 
   "year": "2013",
@@ -140,7 +138,7 @@
   "year": "2011",
   "thumbs": [
     {"src":"./img/thumb/20111231.jpg","title":"如娟回国 11-12-31"},
-    {"src":"./img/thumb/20110909.jpg","title":"教授到福清 11-9-9"},
+    {"src":"./img/thumb/20110909.jpg","title":"长明到福清 11-9-9"},
     {"src":"./img/thumb/20110303.jpg","title":"兰芳到长汀 11-3-3"},
     {"src":"./img/thumb/20110212.jpg","title":"建坤到长汀 11-2-12"}
   ]
@@ -150,15 +148,15 @@
     {"src":"./img/thumb/20081220.jpg","title":"护花使者 08-12-20"},
     {"src":"./img/thumb/20061022.jpg","title":"母校70校庆 06-10-22"},
     {"src":"./img/thumb/20050111.jpg","title":"王琳到澳洲 05-1-11"},
-    {"src":"./img/thumb/20031111.jpg","title":"南平杉湖岛 03-11-11"},
+    {"src":"./img/thumb/20031111.jpg","title":"相聚南平杉湖岛 03-11-11"},
     {"src":"./img/thumb/20080810.jpg","title":"厦门泉准家 08-8-10"},
     {"src":"./img/thumb/20060424.jpg","title":"恩霖到福州 06-4-4"},
-    {"src":"./img/thumb/20040104.jpg","title":"教授到厦门 04-1-4"},
-    {"src":"./img/thumb/20030717.jpg","title":"宁德三都澳 03-7-17"},
+    {"src":"./img/thumb/20040104.jpg","title":"长明到厦门 04-1-4"},
+    {"src":"./img/thumb/20030717.jpg","title":"相聚宁德三都澳 03-7-17"},
     {"src":"./img/thumb/20071207.jpg","title":"建锵、家盛 07-12-07"},
     {"src":"./img/thumb/20050707.jpg","title":"建栋回永安 05-7-7"},
     {"src":"./img/thumb/20031213.jpg","title":"相聚福州 03-12-13"}, 
-    {"src":"./img/thumb/20021002.jpg","title":"泉州清源山 02-10-2"}
+    {"src":"./img/thumb/20021002.jpg","title":"相聚泉州清源山 02-10-2"}
   ]
 },{ 
   "year": "1985-1999",
