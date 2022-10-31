@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](./icon.svg)
+![logo](./vite.svg)
 
 # 光线软件 <small>3.0</small>
 
