@@ -1,17 +1,17 @@
 [{
   "year": "2025",
   "thumbs": [
-    {"src":"./img/thumb/20250930.jpg","title":"40年聚会筹备组 25-9-30"},
-    {"src":"./img/thumb/20250912.jpg","title":"长明到建瓯 25-9-12"},
-    {"src":"./img/thumb/20250812.jpg","title":"肖铮到宁德 25-8-12"},
+    {"src":"./img/thumb/20250930.jpg","title":"40年聚会筹备组 25-9-30"},   
     {"src":"./img/thumb/20250726.jpg","title":"家盛到厦门 25-7-26"},
-    {"src":"./img/thumb/20250604.jpg","title":"肖铮到光泽 25-6-4"},
-    {"src":"./img/thumb/20250508.jpg","title":"建坤家盛在省党校 25-5-8"},
     {"src":"./img/thumb/20250429.jpg","title":"邓平回国沙县 25-4-29"},
-    {"src":"./img/thumb/20250305.jpg","title":"长明到龙岩 25-3-5"},
-    {"src":"./img/thumb/20250206.jpg","title":"丹樱农场聚会 25-2-6"},
     {"src":"./img/thumb/20250125.jpg","title":"厦门聚会 25-1-25"},
-    {"src":"./img/thumb/20250116.jpg","title":"肖铮政光在福州西湖 25-1-16"}
+    {"src":"./img/thumb/20250912.jpg","title":"长明到建瓯 25-9-12"},
+    {"src":"./img/thumb/20250604.jpg","title":"肖铮到光泽 25-6-4"},   
+    {"src":"./img/thumb/20250206.jpg","title":"丹樱农场聚会 25-2-6"},
+    {"src":"./img/thumb/20250116.jpg","title":"肖铮政光在福州西湖 25-1-16"},
+    {"src":"./img/thumb/20250812.jpg","title":"肖铮到宁德 25-8-12"},
+    {"src":"./img/thumb/20250508.jpg","title":"建坤家盛在省党校 25-5-8"}, 
+    {"src":"./img/thumb/20250305.jpg","title":"长明到龙岩 25-3-5"}
   ]
 },{
   "year": "2024",
